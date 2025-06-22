@@ -1,0 +1,8 @@
+pyngrok
+keyboard
+readline
+glob
+sys
+paperclip
+getpass
+pexpect
