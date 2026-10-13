@@ -13,3 +13,5 @@ pip3 install -r requirements.txt
 * Receive - let you receive any file from a remote Server with three different options. ( Netcat, Wget, Curl )
 
 
+
+Last updated: 2026-10-13 15:52 UTC
