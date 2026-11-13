@@ -132,3 +132,5 @@ This catches syntax errors. It does not start tunnels, run shell commands, open 
 - [Troubleshooting](docs/TROUBLESHOOTING.md)
 - [Security policy](SECURITY.md)
 - [Contribution guide](CONTRIBUTING.md)
+
+Last updated: 2026-11-13 19:41 UTC
