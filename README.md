@@ -32,3 +32,5 @@ The workflow asks whether to send or receive files and may create a public tunne
 This tool can copy files into a web server directory, open network tunnels, spawn shell processes, and invoke external transfer commands. The current implementation builds shell commands from interactive input and uses broad system-level operations. Do not run it with sensitive files, elevated privileges, or on an untrusted network. Review and harden path handling, command execution, authentication, transfer integrity, and cleanup before any real use.
 
 See [architecture](docs/ARCHITECTURE.md), [operations](docs/OPERATIONS.md), [security](docs/SECURITY.md), and [development](docs/DEVELOPMENT.md).
+
+Last updated: 2026-11-13 19:34 UTC
