@@ -133,4 +133,4 @@ This catches syntax errors. It does not start tunnels, run shell commands, open 
 - [Security policy](SECURITY.md)
 - [Contribution guide](CONTRIBUTING.md)
 
-Last updated: 2026-11-19 06:08 UTC
+Last updated: 2026-11-19 16:19 UTC
